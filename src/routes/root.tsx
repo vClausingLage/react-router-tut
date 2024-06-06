@@ -55,7 +55,6 @@ export default function Root() {
                             id="search-spinner"
                             aria-hidden
                             hidden={!searching}
-
                         />
                         <div
                             className="sr-only"
